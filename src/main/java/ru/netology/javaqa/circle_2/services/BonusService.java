@@ -1,4 +1,5 @@
 package ru.netology.javaqa.circle_2.services;
+
 public class BonusService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0; // счётчик месяцев отдыха
